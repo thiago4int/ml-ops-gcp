@@ -1,11 +1,3 @@
-
-# **Repositório: Pipeline de MLOps na GCP para Previsão de Demanda**
-
----
-
-## **README.md**
-
-```markdown
 # Pipeline de MLOps na GCP para Previsão de Demanda
 
 Este projeto implementa um pipeline automatizado de MLOps na Google Cloud Platform (GCP) para previsão de demanda de vendas. O pipeline inclui treinamento, implantação e monitoramento de modelos de machine learning, com foco em segurança, escalabilidade e automação.
@@ -107,7 +99,6 @@ echo "Estrutura do repositório criada com sucesso!"
 
 ## **Arquitetura Funcional**
 
-![Arquitetura Funcional](https://via.placeholder.com/800x400.png?text=Arquitetura+Funcional+MLOps+GCP)
 
 1. **Cloud Storage**: Armazena datasets e modelos.
 2. **Cloud Composer**: Orquestra o pipeline de ETL e ML.
@@ -121,7 +112,6 @@ echo "Estrutura do repositório criada com sucesso!"
 
 ## **Arquitetura de Negócios**
 
-![Arquitetura de Negócios](https://via.placeholder.com/800x400.png?text=Arquitetura+de+Negócios+MLOps+GCP)
 
 1. **Entrada**: Dados históricos de vendas.
 2. **Processamento**:
