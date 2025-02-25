@@ -1,6 +1,3 @@
-Aqui está o repositório completo, organizado e documentado, com **README**, **script de criação de pastas**, **arquiteturas funcional e de negócios**, **estrutura de pastas**, e **comandos de implementação e execução**.
-
----
 
 # **Repositório: Pipeline de MLOps na GCP para Previsão de Demanda**
 
